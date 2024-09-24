@@ -9,7 +9,7 @@ Este projeto visa facilitar o acesso a ferramentas e sites utilizados nas aulas,
 - **Organização**: O cronograma é gerido no Trello.
 - **Desenvolvimento**: Utilizamos prototipação com wireframes e protótipos criados no Figma. A codificação é realizada em HTML e CSS no Visual Studio Code.
 
-[Visualize o Cronograma no Trello]([https://trello.com/invite/b/a8YVC0gM/ATTIad24030f2102408c9bc25f693f1ddccbD283A7E8/projeto-interdisciplinar](https://trello.com/invite/b/66d71452e1664aee8b11e910/ATTIefb009eb1b6ef97e33f22b655f78d3cc4B624941/fatec-tools))
+[Visualize o Cronograma no Trello](https://trello.com/invite/b/a8YVC0gM/ATTIad24030f2102408c9bc25f693f1ddccbD283A7E8/projeto-interdisciplinar)
 
 ## Como Colaborar
 
